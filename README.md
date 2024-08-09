@@ -5,4 +5,4 @@ Given a set of items, each with a weight and a value, determine which items to i
 
 The user inputs values and the calculator computes the optimal amount of fruit that fit in the weight constraint but also yields the most profit.
 
-Coded in 2022 for a school math project.
+Coded for a school math project.
